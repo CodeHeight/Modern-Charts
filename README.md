@@ -87,4 +87,4 @@ Sample Web Parts in this solution illustrate the following concepts on top of th
 
 
 ## TypeScript Error
-![Update this code](https://raw.githubusercontent.com/jcoleman-pcprofessional/Modern-Charts/master/assets/Modern-Charts.gif)
+![Update this code](https://raw.githubusercontent.com/CodeHeight/Modern-Charts/master/assets/Fix.png)
