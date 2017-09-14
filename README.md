@@ -3,7 +3,9 @@
 ## Prerequisites
 
 Node.js version: 8.4
+
 NPM version: 5.0.3
+
 TypeScript: 2.4.2 (refer to note at bottom of README)
 
 ## Summary
