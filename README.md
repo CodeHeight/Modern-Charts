@@ -84,3 +84,7 @@ Sample Web Parts in this solution illustrate the following concepts on top of th
 - building dynamic web part properties
 
 ![](https://telemetry.sharepointpnp.com/sp-dev-fx-webparts/samples/react-modern-charts)
+
+
+## TypeScript Error
+* [Update this code](https://raw.githubusercontent.com/CodeHeight/Modern-Charts/master/assets/Fix.png)
