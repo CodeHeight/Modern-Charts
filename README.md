@@ -4,7 +4,7 @@
 
 Node.js version: 8.4
 NPM version: 5.0.3
-TypeScript: 2.4.2
+TypeScript: 2.4.2 (refer to note at bottom of README)
 
 ## Summary
 
@@ -87,4 +87,4 @@ Sample Web Parts in this solution illustrate the following concepts on top of th
 
 
 ## TypeScript Error
-* [Update this code](https://raw.githubusercontent.com/CodeHeight/Modern-Charts/master/assets/Fix.png)
+![Update this code](https://raw.githubusercontent.com/jcoleman-pcprofessional/Modern-Charts/master/assets/Modern-Charts.gif)
