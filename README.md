@@ -1,5 +1,11 @@
 # Modern Charts
 
+## Prerequisites
+
+Node.js version: 8.4
+NPM version: 5.0.3
+TypeScript: 2.4.2
+
 ## Summary
 
 This webpart uses the Chart.js library to visualize SharePoint list data.  
