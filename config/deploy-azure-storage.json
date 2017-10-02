@@ -1,6 +1,6 @@
 {
   "workingDir": "./temp/deploy/",
-  "account": "<!-- STORAGE ACCOUNT NAME -->",
-  "container": "modern-charts",
-  "accessKey": "<!-- ACCESS KEY -->"
+  "account": "codeheight",
+  "container": "moderncharts-webpart",
+  "accessKey": "Gyb+J/aoPamC0Eu0+3C4QHdOhKVXB7jw4vPF+rPxwmQrZH7nhgXZ16xK2Ebrp6l8s0EWCmVk8QeDOKCEt6OScQ=="
 }

@@ -4,14 +4,14 @@
   "id": "50dbeca0-48ed-4459-800f-b75b13159b21",
   "alias": "ModernChartsWebPart",
   "componentType": "WebPart",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "manifestVersion": 2,
 
   "preconfiguredEntries": [{
     "groupId": "50dbeca0-48ed-4459-800f-b75b13159b21",
-    "group": { "default": "Modern Web Parts" },
-    "title": { "default": "ModernCharts" },
-    "description": { "default": "Modern Charts Sample" },
+    "group": { "default": "Auburn SPFx" },
+    "title": { "default": "Modern Charts" },
+    "description": { "default": "Modern Charts" },
     "officeFabricIconFontName": "Chart",
     "properties": {
       "description": "ModernCharts",
